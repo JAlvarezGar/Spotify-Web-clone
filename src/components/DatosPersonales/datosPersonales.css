@@ -1,0 +1,16 @@
+.contenedorDatos{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+a{    
+    color:#00ff00;
+}
+.foto{
+    width: 15vw;
+    margin:20px  
+}
+p{
+    text-align:justify;
+}
