@@ -4,6 +4,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <img src="https://github.com/JAlvarezGar/Spotify-Web-clone/blob/master/assets/spoti_login.png" width="600px"/>
+<img src="https://github.com/JAlvarezGar/Spotify-Web-clone/blob/master/assets/spoti_login2.png" width="300px"/>
+<img src="https://github.com/JAlvarezGar/Spotify-Web-clone/blob/master/assets/spoti_principal.png" width="600px"/>
 
 
 ## Available Scripts
