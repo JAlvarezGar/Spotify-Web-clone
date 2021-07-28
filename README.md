@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# P&aacute;gina clon de Spotify
+## Solo es una muestra frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img src="https://github.com/JAlvarezGar/Spotify-Web-clone/blob/master/assets/spoti_login.png" width="600px"/>
+
 
 ## Available Scripts
 
